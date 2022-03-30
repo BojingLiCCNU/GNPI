@@ -1,0 +1,392 @@
+Eukaryota:cellular_organisms
+Archaea:cellular_organisms
+Bacteria:cellular_organisms
+Opisthokonta:Eukaryota ,cellular_organisms
+Euryarchaeota:Archaea ,cellular_organisms
+Proteobacteria:Bacteria ,cellular_organisms
+FCB_group:Bacteria ,cellular_organisms
+PVC_group:Bacteria ,cellular_organisms
+Acidobacteria:Bacteria ,cellular_organisms
+Terrabacteria_group:Bacteria ,cellular_organisms
+Fungi:Opisthokonta ,Eukaryota ,cellular_organisms
+Methanomada_group:Euryarchaeota ,Archaea ,cellular_organisms
+delta/epsilon_subdivisions:Proteobacteria ,Bacteria ,cellular_organisms
+Betaproteobacteria:Proteobacteria ,Bacteria ,cellular_organisms
+Gammaproteobacteria:Proteobacteria ,Bacteria ,cellular_organisms
+Bacteroidetes/Chlorobi_group:FCB_group ,Bacteria ,cellular_organisms
+Verrucomicrobia:PVC_group ,Bacteria ,cellular_organisms
+Acidobacteriia:Acidobacteria ,Bacteria ,cellular_organisms
+Firmicutes:Terrabacteria_group ,Bacteria ,cellular_organisms
+Actinobacteria_ccnu:Terrabacteria_group ,Bacteria ,cellular_organisms
+Deinococcus-Thermus:Terrabacteria_group ,Bacteria ,cellular_organisms
+Dikarya:Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Methanobacteria:Methanomada_group ,Euryarchaeota ,Archaea ,cellular_organisms
+Deltaproteobacteria:delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Burkholderiales:Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Pasteurellales:Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Pseudomonadales:Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Nevskiales:Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Enterobacterales:Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Bacteroidetes:Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Verrucomicrobiae:Verrucomicrobia ,PVC_group ,Bacteria ,cellular_organisms
+Acidobacteriales:Acidobacteriia ,Acidobacteria ,Bacteria ,cellular_organisms
+Clostridia:Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichia:Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Negativicutes:Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bacilli:Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coriobacteriia:Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Actinobacteria:Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Deinococci:Deinococcus-Thermus ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ascomycota:Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Methanobacteriales:Methanobacteria ,Methanomada_group ,Euryarchaeota ,Archaea ,cellular_organisms
+Desulfovibrionales:Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Burkholderiaceae:Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Sutterellaceae:Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Comamonadaceae:Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Oxalobacteraceae:Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Burkholderiales:Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Pasteurellaceae:Pasteurellales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Pseudomonadaceae:Pseudomonadales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Sinobacteraceae:Nevskiales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Enterobacteriaceae:Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Erwiniaceae:Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Bacteroidia:Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Sphingobacteriia:Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Flavobacteriia:Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Verrucomicrobiales:Verrucomicrobiae ,Verrucomicrobia ,PVC_group ,Bacteria ,cellular_organisms
+Acidobacteriaceae:Acidobacteriales ,Acidobacteriia ,Acidobacteria ,Bacteria ,cellular_organisms
+Clostridiales:Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichales:Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Selenomonadales:Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Acidaminococcales:Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Veillonellales:Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lactobacillales:Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coriobacteriales:Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eggerthellales:Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Micrococcales:Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacteriales:Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Deinococcales:Deinococci ,Deinococcus-Thermus ,Terrabacteria_group ,Bacteria ,cellular_organisms
+saccharomyceta:Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Methanobacteriaceae:Methanobacteriales ,Methanobacteria ,Methanomada_group ,Euryarchaeota ,Archaea ,cellular_organisms
+Desulfovibrionaceae:Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Burkholderia:Burkholderiaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Sutterellaceae:Sutterellaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Parasutterella:Sutterellaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Sutterella:Sutterellaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Comamonas:Comamonadaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Candidatus_Zinderia:Oxalobacteraceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Oxalobacter:Oxalobacteraceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Burkholderiales__miscellaneous:unclassified_Burkholderiales ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Haemophilus:Pasteurellaceae ,Pasteurellales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Actinobacillus:Pasteurellaceae ,Pasteurellales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Pseudomonas:Pseudomonadaceae ,Pseudomonadales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Sinobacteraceae:Sinobacteraceae ,Nevskiales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Escherichia:Enterobacteriaceae ,Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Pantoea:Erwiniaceae ,Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Bacteroidales:Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Sphingobacteriales:Sphingobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Flavobacteriales:Flavobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Akkermansiaceae:Verrucomicrobiales ,Verrucomicrobiae ,Verrucomicrobia ,PVC_group ,Bacteria ,cellular_organisms
+Granulicella:Acidobacteriaceae ,Acidobacteriales ,Acidobacteriia ,Acidobacteria ,Bacteria ,cellular_organisms
+Lachnospiraceae:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcaceae:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridiaceae:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacteriaceae:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Clostridiales:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Peptostreptococcaceae:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridiales_incertae_sedis:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Oscillospiraceae:Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae:Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Selenomonadaceae:Selenomonadales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Acidaminococcaceae:Acidaminococcales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Veillonellaceae:Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcaceae:Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lactobacillaceae:Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Carnobacteriaceae:Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Atopobiaceae:Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coriobacteriaceae:Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eggerthellaceae:Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Micrococcaceae:Micrococcales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacteriaceae:Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Deinococcaceae:Deinococcales ,Deinococci ,Deinococcus-Thermus ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Saccharomycotina:saccharomyceta ,Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Methanobrevibacter:Methanobacteriaceae ,Methanobacteriales ,Methanobacteria ,Methanomada_group ,Euryarchaeota ,Archaea ,cellular_organisms
+Bilophila:Desulfovibrionaceae ,Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Desulfovibrio:Desulfovibrionaceae ,Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Burkholderia_species:Burkholderia ,Burkholderiaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Parasutterella_excrementihominis:Parasutterella ,Sutterellaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Sutterella_wadsworthensis:Sutterella ,Sutterellaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Comamonas_species:Comamonas ,Comamonadaceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Candidatus_Zinderia_insecticola:Candidatus_Zinderia ,Oxalobacteraceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Oxalobacter_formigenes:Oxalobacter ,Oxalobacteraceae ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Burkholderiales_bacterium_1_1_47:unclassified_Burkholderiales__miscellaneous ,unclassified_Burkholderiales ,Burkholderiales ,Betaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Haemophilus_parainfluenzae:Haemophilus ,Pasteurellaceae ,Pasteurellales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Actinobacillus_species:Actinobacillus ,Pasteurellaceae ,Pasteurellales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Pseudomonas:Pseudomonas ,Pseudomonadaceae ,Pseudomonadales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Escherichia_coli:Escherichia ,Enterobacteriaceae ,Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Escherichia_species:Escherichia ,Enterobacteriaceae ,Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Pantoea_species:Pantoea ,Erwiniaceae ,Enterobacterales ,Gammaproteobacteria ,Proteobacteria ,Bacteria ,cellular_organisms
+Tannerellaceae:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroidaceae:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Prevotellaceae:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Rikenellaceae:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Odoribacteraceae:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Barnesiellaceae:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroidales_noname_family:Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Sphingobacteriaceae:Sphingobacteriales ,Sphingobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Flavobacteriaceae:Flavobacteriales ,Flavobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Akkermansia:Akkermansiaceae ,Verrucomicrobiales ,Verrucomicrobiae ,Verrucomicrobia ,PVC_group ,Bacteria ,cellular_organisms
+unclassified_Granulicella_species:Granulicella ,Acidobacteriaceae ,Acidobacteriales ,Acidobacteriia ,Acidobacteria ,Bacteria ,cellular_organisms
+Butyrivibrio:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Lachnospiraceae:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Roseburia:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnoclostridium:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Dorea:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coprococcus:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Anaerostipes:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Blautia:Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Subdoligranulum:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Pseudoflavonifractor:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Flavonifractor:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Faecalibacterium:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Ruminococcaceae:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Anaerotruncus:Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium:Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Butyricicoccus:Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Clostridiaceae:Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium:Eubacteriaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bacteroides_pectinophilus:unclassified_Clostridiales ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Clostridiales__miscellaneous:unclassified_Clostridiales ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Peptostreptococcaceae_noname_genus:Peptostreptococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Peptostreptococcaceae_noname_genus_ccnu:Peptostreptococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridiales_Family_XIII_Incertae_Sedis:Clostridiales_incertae_sedis ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Oscillibacter:Oscillospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelatoclostridium:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Catenibacterium:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coprobacillus:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Solobacterium:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Turicibacter:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Erysipelotrichaceae:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Holdemania:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae_noname_genus:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae_noname_genus_ccnu:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae_noname_genus_ccnu2:Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Mitsuokella:Selenomonadaceae ,Selenomonadales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Phascolarctobacterium:Acidaminococcaceae ,Acidaminococcales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Acidaminococcaceae:Acidaminococcaceae ,Acidaminococcales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Megasphaera:Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Veillonella:Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Dialister:Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus:Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lactococcus:Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lactobacillus:Lactobacillaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Granulicatella:Carnobacteriaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Olsenella:Atopobiaceae ,Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Atopobium:Atopobiaceae ,Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Collinsella:Coriobacteriaceae ,Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eggerthella:Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Adlercreutzia:Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Gordonibacter:Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Rothia:Micrococcaceae ,Micrococcales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium:Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Deinococcus:Deinococcaceae ,Deinococcales ,Deinococci ,Deinococcus-Thermus ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Saccharomycetes:Saccharomycotina ,saccharomyceta ,Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Methanobrevibacter_smithii:Methanobrevibacter ,Methanobacteriaceae ,Methanobacteriales ,Methanobacteria ,Methanomada_group ,Euryarchaeota ,Archaea ,cellular_organisms
+unclassified_Methanobrevibacter_species:Methanobrevibacter ,Methanobacteriaceae ,Methanobacteriales ,Methanobacteria ,Methanomada_group ,Euryarchaeota ,Archaea ,cellular_organisms
+Bilophila_wadsworthia:Bilophila ,Desulfovibrionaceae ,Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+unclassified_Bilophila_species:Bilophila ,Desulfovibrionaceae ,Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Desulfovibrio_piger:Desulfovibrio ,Desulfovibrionaceae ,Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Desulfovibrio_desulfuricans:Desulfovibrio ,Desulfovibrionaceae ,Desulfovibrionales ,Deltaproteobacteria ,delta/epsilon_subdivisions ,Proteobacteria ,Bacteria ,cellular_organisms
+Parabacteroides:Tannerellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides:Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Paraprevotella:Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alloprevotella:Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Prevotella:Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes:Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Odoribacter:Odoribacteraceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Butyricimonas:Odoribacteraceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Barnesiella:Barnesiellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Coprobacter:Barnesiellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Pedobacter:Sphingobacteriaceae ,Sphingobacteriales ,Sphingobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Cellulophaga:Flavobacteriaceae ,Flavobacteriales ,Flavobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Akkermansia_muciniphila:Akkermansia ,Akkermansiaceae ,Verrucomicrobiales ,Verrucomicrobiae ,Verrucomicrobia ,PVC_group ,Bacteria ,cellular_organisms
+Butyrivibrio_crossotus:Butyrivibrio ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Butyrivibrio_species:Butyrivibrio ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_rectale:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_8_1_57FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_5_1_63FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_9_1_43BFAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_3_1_57FAA_CT1:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_3_1_46FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_7_1_58FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_2_1_58FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_1_4_56FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lachnospiraceae_bacterium_1_1_57FAA:unclassified_Lachnospiraceae ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Roseburia_inulinivorans:Roseburia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Roseburia_hominis:Roseburia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Roseburia_intestinalis:Roseburia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Roseburia_species:Roseburia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_scindens:Lachnoclostridium ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_citroniae:Lachnoclostridium ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_asparagiforme:Lachnoclostridium ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_bolteae:Lachnoclostridium ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_clostridioforme:Lachnoclostridium ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_symbiosum:Lachnoclostridium ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Dorea_longicatena:Dorea ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Dorea_formicigenerans:Dorea ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coprococcus_catus:Coprococcus ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coprococcus_eutactus:Coprococcus ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coprococcus_comes:Coprococcus ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Coprococcus_sp_ART55_1_species:Coprococcus ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Anaerostipes_hadrus:Anaerostipes ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Blautia_hydrogenotrophica:Blautia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Blautia_producta:Blautia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_torques:Blautia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_gnavus:Blautia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_obeum_species:Blautia ,Lachnospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Subdoligranulum_sp_4_3_54A2FAA:Subdoligranulum ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Subdoligranulum_variabile:Subdoligranulum ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Subdoligranulum_species:Subdoligranulum ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Pseudoflavonifractor_capillosus:Pseudoflavonifractor ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Flavonifractor_plautii:Flavonifractor ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Faecalibacterium_prausnitzii:Faecalibacterium ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_champanellensis:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_sp_5_1_39BFAA:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_albus:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_lactaris:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_flavefaciens:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_callidus:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Ruminococcus_bromii:Ruminococcus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_leptum:unclassified_Ruminococcaceae ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Ruminococcaceae__miscellaneous:unclassified_Ruminococcaceae ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_siraeum:unclassified_Ruminococcaceae ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Anaerotruncus_colihominis:Anaerotruncus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Anaerotruncus_species:Anaerotruncus ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_hathewayi_species:Clostridium ,Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_nexile_species:Clostridium ,Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_sp_L2_50_species:Clostridium ,Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Butyricicoccus_pullicaecorum:Butyricicoccus ,Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridiaceae_bacterium_JC118:unclassified_Clostridiaceae ,Clostridiaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_sp_3_1_31:Eubacterium ,Eubacteriaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_ventriosum:Eubacterium ,Eubacteriaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_ramulus:Eubacterium ,Eubacteriaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_eligens:Eubacterium ,Eubacteriaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_hallii:Eubacterium ,Eubacteriaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridiales_bacterium_1_7_47FAA:unclassified_Clostridiales__miscellaneous ,unclassified_Clostridiales ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Clostridiales_Family_XIII_Incertae_Sedis:Clostridiales_Family_XIII_Incertae_Sedis ,Clostridiales_incertae_sedis ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Oscillibacter_sp_KLE_1745:Oscillibacter ,Oscillospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Oscillibacter_species:Oscillibacter ,Oscillospiraceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_innocuum:Erysipelatoclostridium ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Catenibacterium_mitsuokai:Catenibacterium ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Coprobacillus_species:Coprobacillus ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Solobacterium_moorei:Solobacterium ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Turicibacter_sanguinis:Turicibacter ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Turicibacter_species:Turicibacter ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Erysipelotrichaceae__miscellaneous:unclassified_Erysipelotrichaceae ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Holdemania_filiformis:Holdemania ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Holdemania_species:Holdemania ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Mitsuokella_multacida:Mitsuokella ,Selenomonadaceae ,Selenomonadales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Mitsuokella_species:Mitsuokella ,Selenomonadaceae ,Selenomonadales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Phascolarctobacterium_succinatutens:Phascolarctobacterium ,Acidaminococcaceae ,Acidaminococcales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Megasphaera_elsdenii:Megasphaera ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Megasphaera_species:Megasphaera ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Veillonella_dispar:Veillonella ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Veillonella_atypica:Veillonella ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Veillonella_parvula:Veillonella ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Veillonella_species:Veillonella ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Dialister_succinatiphilus:Dialister ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Dialister_invisus:Dialister ,Veillonellaceae ,Veillonellales ,Negativicutes ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_gordonii:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_australis:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_parasanguinis:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_vestibularis:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_salivarius:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_thermophilus:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_sanguinis:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_infantis:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Streptococcus_mitis_oralis_pneumoniae_species:Streptococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lactococcus_lactis:Lactococcus ,Streptococcaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Lactobacillus_ruminis:Lactobacillus ,Lactobacillaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Granulicatella_species:Granulicatella ,Carnobacteriaceae ,Lactobacillales ,Bacilli ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Olsenella_species:Olsenella ,Atopobiaceae ,Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Atopobium_parvulum:Atopobium ,Atopobiaceae ,Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Collinsella_aerofaciens:Collinsella ,Coriobacteriaceae ,Coriobacteriales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eggerthella_lenta:Eggerthella ,Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Eggerthella_species:Eggerthella ,Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Adlercreutzia_equolifaciens:Adlercreutzia ,Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Gordonibacter_pamelaeae:Gordonibacter ,Eggerthellaceae ,Eggerthellales ,Coriobacteriia ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Rothia_mucilaginosa:Rothia ,Micrococcaceae ,Micrococcales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Rothia_species:Rothia ,Micrococcaceae ,Micrococcales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium_pseudocatenulatum:Bifidobacterium ,Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium_adolescentis:Bifidobacterium ,Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium_catenulatum:Bifidobacterium ,Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium_dentium:Bifidobacterium ,Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium_longum:Bifidobacterium ,Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bifidobacterium_bifidum:Bifidobacterium ,Bifidobacteriaceae ,Bifidobacteriales ,Actinobacteria ,Actinobacteria_ccnu ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Deinococcus_species:Deinococcus ,Deinococcaceae ,Deinococcales ,Deinococci ,Deinococcus-Thermus ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bacteroidales_noname_genus:Bacteroidales_noname_family ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Clostridium_bartlettii_species:Peptostreptococcaceae_noname_genus ,Peptostreptococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+unclassified_Peptostreptococcaceae_noname_species:Peptostreptococcaceae_noname_genus_ccnu ,Peptostreptococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_biforme_species:Erysipelotrichaceae_noname_genus ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Eubacterium_cylindroides_species:Erysipelotrichaceae_noname_genus_ccnu ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Clostridium_ramosum_species:Erysipelotrichaceae_noname_genus_ccnu2 ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Saccharomycetales:Saccharomycetes ,Saccharomycotina ,saccharomyceta ,Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Parabacteroides_merdae:Parabacteroides ,Tannerellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Parabacteroides_johnsonii:Parabacteroides ,Tannerellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Parabacteroides_goldsteinii:Parabacteroides ,Tannerellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Parabacteroides_distasonis:Parabacteroides ,Tannerellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+unclassified_Parabacteroides_species:Parabacteroides ,Tannerellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_nordii:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_stercoris:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_salyersiae:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_ovatus:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_coprocola:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_faecis:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_intestinalis:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_coprophilus:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_uniformis:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_xylanisolvens:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_fragilis:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_dorei:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_thetaiotaomicron:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_vulgatus:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_clarus:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_eggerthii:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_cellulosilyticus:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_massiliensis:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_caccae:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_finegoldii:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Bacteroides_plebeius:Bacteroides ,Bacteroidaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Paraprevotella_clara:Paraprevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Paraprevotella_xylaniphila:Paraprevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+unclassified_Paraprevotella_species:Paraprevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+unclassified_Alloprevotella_species:Alloprevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Prevotella_stercorea:Prevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Prevotella_bivia:Prevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Prevotella_copri:Prevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Prevotella_disiens:Prevotella ,Prevotellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_senegalensis:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_finegoldii:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_onderdonkii:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_putredinis:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_sp_HGB5:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_indistinctus:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_shahii:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Alistipes_sp_AP11_species:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+unclassified_Alistipes_species:Alistipes ,Rikenellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Odoribacter_splanchnicus:Odoribacter ,Odoribacteraceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Butyricimonas_synergistica:Butyricimonas ,Odoribacteraceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Barnesiella_intestinihominis:Barnesiella ,Barnesiellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Coprobacter_fastidiosus:Coprobacter ,Barnesiellaceae ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+unclassified_Pedobacter_species:Pedobacter ,Sphingobacteriaceae ,Sphingobacteriales ,Sphingobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+unclassified_Cellulophaga_species:Cellulophaga ,Flavobacteriaceae ,Flavobacteriales ,Flavobacteriia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Ruminococcaceae_bacterium_D16:unclassified_Ruminococcaceae__miscellaneous ,unclassified_Ruminococcaceae ,Ruminococcaceae ,Clostridiales ,Clostridia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae_bacterium_2_2_44A:unclassified_Erysipelotrichaceae__miscellaneous ,unclassified_Erysipelotrichaceae ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae_bacterium_6_1_45:unclassified_Erysipelotrichaceae__miscellaneous ,unclassified_Erysipelotrichaceae ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Erysipelotrichaceae_bacterium_21_3:unclassified_Erysipelotrichaceae__miscellaneous ,unclassified_Erysipelotrichaceae ,Erysipelotrichaceae ,Erysipelotrichales ,Erysipelotrichia ,Firmicutes ,Terrabacteria_group ,Bacteria ,cellular_organisms
+Bacteroidales_bacterium_ph8_species:Bacteroidales_noname_genus ,Bacteroidales_noname_family ,Bacteroidales ,Bacteroidia ,Bacteroidetes ,Bacteroidetes/Chlorobi_group ,FCB_group ,Bacteria ,cellular_organisms
+Saccharomycetaceae:Saccharomycetales ,Saccharomycetes ,Saccharomycotina ,saccharomyceta ,Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Saccharomyces:Saccharomycetaceae ,Saccharomycetales ,Saccharomycetes ,Saccharomycotina ,saccharomyceta ,Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+Saccharomyces_cerevisiae:Saccharomyces ,Saccharomycetaceae ,Saccharomycetales ,Saccharomycetes ,Saccharomycotina ,saccharomyceta ,Ascomycota ,Dikarya ,Fungi ,Opisthokonta ,Eukaryota ,cellular_organisms
+cellular_organisms:cellular_organisms

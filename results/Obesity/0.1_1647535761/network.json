@@ -1,0 +1,5488 @@
+{
+    "elements": {
+        "edges": [
+            {
+                "data": {
+                    "id": "cellular_organisms_Eukaryota",
+                    "score": 0,
+                    "source": "cellular_organisms",
+                    "target": "Eukaryota"
+                }
+            },
+            {
+                "data": {
+                    "id": "cellular_organisms_Archaea",
+                    "score": 0,
+                    "source": "cellular_organisms",
+                    "target": "Archaea"
+                }
+            },
+            {
+                "data": {
+                    "id": "cellular_organisms_Bacteria",
+                    "score": 0,
+                    "source": "cellular_organisms",
+                    "target": "Bacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eukaryota_Opisthokonta",
+                    "score": 0,
+                    "source": "Eukaryota",
+                    "target": "Opisthokonta"
+                }
+            },
+            {
+                "data": {
+                    "id": "Archaea_Euryarchaeota",
+                    "score": 0,
+                    "source": "Archaea",
+                    "target": "Euryarchaeota"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteria_Proteobacteria",
+                    "score": 0,
+                    "source": "Bacteria",
+                    "target": "Proteobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteria_FCB_group",
+                    "score": 0,
+                    "source": "Bacteria",
+                    "target": "FCB_group"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteria_PVC_group",
+                    "score": 0,
+                    "source": "Bacteria",
+                    "target": "PVC_group"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteria_Acidobacteria",
+                    "score": 0,
+                    "source": "Bacteria",
+                    "target": "Acidobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteria_Terrabacteria_group",
+                    "score": 0,
+                    "source": "Bacteria",
+                    "target": "Terrabacteria_group"
+                }
+            },
+            {
+                "data": {
+                    "id": "Opisthokonta_Fungi",
+                    "score": 0,
+                    "source": "Opisthokonta",
+                    "target": "Fungi"
+                }
+            },
+            {
+                "data": {
+                    "id": "Euryarchaeota_Methanomada_group",
+                    "score": 0,
+                    "source": "Euryarchaeota",
+                    "target": "Methanomada_group"
+                }
+            },
+            {
+                "data": {
+                    "id": "Proteobacteria_delta/epsilon_subdivisions",
+                    "score": 0,
+                    "source": "Proteobacteria",
+                    "target": "delta/epsilon_subdivisions"
+                }
+            },
+            {
+                "data": {
+                    "id": "Proteobacteria_Betaproteobacteria",
+                    "score": 0,
+                    "source": "Proteobacteria",
+                    "target": "Betaproteobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "Proteobacteria_Gammaproteobacteria",
+                    "score": 0,
+                    "source": "Proteobacteria",
+                    "target": "Gammaproteobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "FCB_group_Bacteroidetes/Chlorobi_group",
+                    "score": 0,
+                    "source": "FCB_group",
+                    "target": "Bacteroidetes/Chlorobi_group"
+                }
+            },
+            {
+                "data": {
+                    "id": "PVC_group_Verrucomicrobia",
+                    "score": 0,
+                    "source": "PVC_group",
+                    "target": "Verrucomicrobia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteria_Acidobacteriia",
+                    "score": 0,
+                    "source": "Acidobacteria",
+                    "target": "Acidobacteriia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Terrabacteria_group_Firmicutes",
+                    "score": 0,
+                    "source": "Terrabacteria_group",
+                    "target": "Firmicutes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Terrabacteria_group_Actinobacteria_ccnu",
+                    "score": 0,
+                    "source": "Terrabacteria_group",
+                    "target": "Actinobacteria_ccnu"
+                }
+            },
+            {
+                "data": {
+                    "id": "Terrabacteria_group_Deinococcus-Thermus",
+                    "score": 0,
+                    "source": "Terrabacteria_group",
+                    "target": "Deinococcus-Thermus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Fungi_Dikarya",
+                    "score": 0,
+                    "source": "Fungi",
+                    "target": "Dikarya"
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanomada_group_Methanobacteria",
+                    "score": 0,
+                    "source": "Methanomada_group",
+                    "target": "Methanobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "delta/epsilon_subdivisions_Deltaproteobacteria",
+                    "score": 0,
+                    "source": "delta/epsilon_subdivisions",
+                    "target": "Deltaproteobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "Betaproteobacteria_Burkholderiales",
+                    "score": 0,
+                    "source": "Betaproteobacteria",
+                    "target": "Burkholderiales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Gammaproteobacteria_Pasteurellales",
+                    "score": 0,
+                    "source": "Gammaproteobacteria",
+                    "target": "Pasteurellales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Gammaproteobacteria_Pseudomonadales",
+                    "score": 0,
+                    "source": "Gammaproteobacteria",
+                    "target": "Pseudomonadales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Gammaproteobacteria_Nevskiales",
+                    "score": 0,
+                    "source": "Gammaproteobacteria",
+                    "target": "Nevskiales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Gammaproteobacteria_Enterobacterales",
+                    "score": 0,
+                    "source": "Gammaproteobacteria",
+                    "target": "Enterobacterales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidetes/Chlorobi_group_Bacteroidetes",
+                    "score": 0,
+                    "source": "Bacteroidetes/Chlorobi_group",
+                    "target": "Bacteroidetes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Verrucomicrobia_Verrucomicrobiae",
+                    "score": 0,
+                    "source": "Verrucomicrobia",
+                    "target": "Verrucomicrobiae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteriia_Acidobacteriales",
+                    "score": 0,
+                    "source": "Acidobacteriia",
+                    "target": "Acidobacteriales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Firmicutes_Clostridia",
+                    "score": 0,
+                    "source": "Firmicutes",
+                    "target": "Clostridia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Firmicutes_Erysipelotrichia",
+                    "score": 0,
+                    "source": "Firmicutes",
+                    "target": "Erysipelotrichia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Firmicutes_Negativicutes",
+                    "score": 0,
+                    "source": "Firmicutes",
+                    "target": "Negativicutes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Firmicutes_Bacilli",
+                    "score": 0,
+                    "source": "Firmicutes",
+                    "target": "Bacilli"
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacteria_ccnu_Coriobacteriia",
+                    "score": 0,
+                    "source": "Actinobacteria_ccnu",
+                    "target": "Coriobacteriia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacteria_ccnu_Actinobacteria",
+                    "score": 0,
+                    "source": "Actinobacteria_ccnu",
+                    "target": "Actinobacteria"
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcus-Thermus_Deinococci",
+                    "score": 0,
+                    "source": "Deinococcus-Thermus",
+                    "target": "Deinococci"
+                }
+            },
+            {
+                "data": {
+                    "id": "Dikarya_Ascomycota",
+                    "score": 0,
+                    "source": "Dikarya",
+                    "target": "Ascomycota"
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobacteria_Methanobacteriales",
+                    "score": 0,
+                    "source": "Methanobacteria",
+                    "target": "Methanobacteriales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Deltaproteobacteria_Desulfovibrionales",
+                    "score": 0,
+                    "source": "Deltaproteobacteria",
+                    "target": "Desulfovibrionales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales_Burkholderiaceae",
+                    "score": 0,
+                    "source": "Burkholderiales",
+                    "target": "Burkholderiaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales_Sutterellaceae",
+                    "score": 0,
+                    "source": "Burkholderiales",
+                    "target": "Sutterellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales_Comamonadaceae",
+                    "score": 0,
+                    "source": "Burkholderiales",
+                    "target": "Comamonadaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales_Oxalobacteraceae",
+                    "score": 0,
+                    "source": "Burkholderiales",
+                    "target": "Oxalobacteraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales_unclassified_Burkholderiales",
+                    "score": 0,
+                    "source": "Burkholderiales",
+                    "target": "unclassified_Burkholderiales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pasteurellales_Pasteurellaceae",
+                    "score": 0,
+                    "source": "Pasteurellales",
+                    "target": "Pasteurellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudomonadales_Pseudomonadaceae",
+                    "score": 0,
+                    "source": "Pseudomonadales",
+                    "target": "Pseudomonadaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Nevskiales_Sinobacteraceae",
+                    "score": 0,
+                    "source": "Nevskiales",
+                    "target": "Sinobacteraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Enterobacterales_Enterobacteriaceae",
+                    "score": 0,
+                    "source": "Enterobacterales",
+                    "target": "Enterobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Enterobacterales_Erwiniaceae",
+                    "score": 0,
+                    "source": "Enterobacterales",
+                    "target": "Erwiniaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidetes_Bacteroidia",
+                    "score": 0,
+                    "source": "Bacteroidetes",
+                    "target": "Bacteroidia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidetes_Sphingobacteriia",
+                    "score": 0,
+                    "source": "Bacteroidetes",
+                    "target": "Sphingobacteriia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidetes_Flavobacteriia",
+                    "score": 0,
+                    "source": "Bacteroidetes",
+                    "target": "Flavobacteriia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Verrucomicrobiae_Verrucomicrobiales",
+                    "score": 0,
+                    "source": "Verrucomicrobiae",
+                    "target": "Verrucomicrobiales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteriales_Acidobacteriaceae",
+                    "score": 0,
+                    "source": "Acidobacteriales",
+                    "target": "Acidobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridia_Clostridiales",
+                    "score": 0,
+                    "source": "Clostridia",
+                    "target": "Clostridiales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichia_Erysipelotrichales",
+                    "score": 0,
+                    "source": "Erysipelotrichia",
+                    "target": "Erysipelotrichales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Negativicutes_Selenomonadales",
+                    "score": 0,
+                    "source": "Negativicutes",
+                    "target": "Selenomonadales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Negativicutes_Acidaminococcales",
+                    "score": 0,
+                    "source": "Negativicutes",
+                    "target": "Acidaminococcales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Negativicutes_Veillonellales",
+                    "score": 0,
+                    "source": "Negativicutes",
+                    "target": "Veillonellales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacilli_Lactobacillales",
+                    "score": 0,
+                    "source": "Bacilli",
+                    "target": "Lactobacillales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriia_Coriobacteriales",
+                    "score": 0,
+                    "source": "Coriobacteriia",
+                    "target": "Coriobacteriales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriia_Eggerthellales",
+                    "score": 0,
+                    "source": "Coriobacteriia",
+                    "target": "Eggerthellales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacteria_Micrococcales",
+                    "score": 0,
+                    "source": "Actinobacteria",
+                    "target": "Micrococcales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacteria_Bifidobacteriales",
+                    "score": 0,
+                    "source": "Actinobacteria",
+                    "target": "Bifidobacteriales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococci_Deinococcales",
+                    "score": 0,
+                    "source": "Deinococci",
+                    "target": "Deinococcales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ascomycota_saccharomyceta",
+                    "score": 0,
+                    "source": "Ascomycota",
+                    "target": "saccharomyceta"
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobacteriales_Methanobacteriaceae",
+                    "score": 0,
+                    "source": "Methanobacteriales",
+                    "target": "Methanobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrionales_Desulfovibrionaceae",
+                    "score": 0,
+                    "source": "Desulfovibrionales",
+                    "target": "Desulfovibrionaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiaceae_Burkholderia",
+                    "score": 0,
+                    "source": "Burkholderiaceae",
+                    "target": "Burkholderia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterellaceae_unclassified_Sutterellaceae",
+                    "score": 0,
+                    "source": "Sutterellaceae",
+                    "target": "unclassified_Sutterellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterellaceae_Parasutterella",
+                    "score": 0,
+                    "source": "Sutterellaceae",
+                    "target": "Parasutterella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterellaceae_Sutterella",
+                    "score": 0,
+                    "source": "Sutterellaceae",
+                    "target": "Sutterella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Comamonadaceae_Comamonas",
+                    "score": 0,
+                    "source": "Comamonadaceae",
+                    "target": "Comamonas"
+                }
+            },
+            {
+                "data": {
+                    "id": "Oxalobacteraceae_Candidatus_Zinderia",
+                    "score": 0,
+                    "source": "Oxalobacteraceae",
+                    "target": "Candidatus_Zinderia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Oxalobacteraceae_Oxalobacter",
+                    "score": 0,
+                    "source": "Oxalobacteraceae",
+                    "target": "Oxalobacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Burkholderiales_unclassified_Burkholderiales__miscellaneous",
+                    "score": 0,
+                    "source": "unclassified_Burkholderiales",
+                    "target": "unclassified_Burkholderiales__miscellaneous"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pasteurellaceae_Haemophilus",
+                    "score": 0,
+                    "source": "Pasteurellaceae",
+                    "target": "Haemophilus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pasteurellaceae_Actinobacillus",
+                    "score": 0,
+                    "source": "Pasteurellaceae",
+                    "target": "Actinobacillus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudomonadaceae_Pseudomonas",
+                    "score": 0,
+                    "source": "Pseudomonadaceae",
+                    "target": "Pseudomonas"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sinobacteraceae_unclassified_Sinobacteraceae",
+                    "score": 0,
+                    "source": "Sinobacteraceae",
+                    "target": "unclassified_Sinobacteraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Enterobacteriaceae_Escherichia",
+                    "score": 0,
+                    "source": "Enterobacteriaceae",
+                    "target": "Escherichia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erwiniaceae_Pantoea",
+                    "score": 0,
+                    "source": "Erwiniaceae",
+                    "target": "Pantoea"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidia_Bacteroidales",
+                    "score": 0,
+                    "source": "Bacteroidia",
+                    "target": "Bacteroidales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sphingobacteriia_Sphingobacteriales",
+                    "score": 0,
+                    "source": "Sphingobacteriia",
+                    "target": "Sphingobacteriales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavobacteriia_Flavobacteriales",
+                    "score": 0,
+                    "source": "Flavobacteriia",
+                    "target": "Flavobacteriales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Verrucomicrobiales_Akkermansiaceae",
+                    "score": 0,
+                    "source": "Verrucomicrobiales",
+                    "target": "Akkermansiaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteriaceae_Granulicella",
+                    "score": 0,
+                    "source": "Acidobacteriaceae",
+                    "target": "Granulicella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Lachnospiraceae",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Lachnospiraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Ruminococcaceae",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Ruminococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Clostridiaceae",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Clostridiaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Eubacteriaceae",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Eubacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_unclassified_Clostridiales",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "unclassified_Clostridiales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Peptostreptococcaceae",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Peptostreptococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Clostridiales_incertae_sedis",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Clostridiales_incertae_sedis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Oscillospiraceae",
+                    "score": 0,
+                    "source": "Clostridiales",
+                    "target": "Oscillospiraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichales_Erysipelotrichaceae",
+                    "score": 0,
+                    "source": "Erysipelotrichales",
+                    "target": "Erysipelotrichaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Selenomonadales_Selenomonadaceae",
+                    "score": 0,
+                    "source": "Selenomonadales",
+                    "target": "Selenomonadaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidaminococcales_Acidaminococcaceae",
+                    "score": 0,
+                    "source": "Acidaminococcales",
+                    "target": "Acidaminococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonellales_Veillonellaceae",
+                    "score": 0,
+                    "source": "Veillonellales",
+                    "target": "Veillonellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillales_Streptococcaceae",
+                    "score": 0,
+                    "source": "Lactobacillales",
+                    "target": "Streptococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillales_Lactobacillaceae",
+                    "score": 0,
+                    "source": "Lactobacillales",
+                    "target": "Lactobacillaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillales_Carnobacteriaceae",
+                    "score": 0,
+                    "source": "Lactobacillales",
+                    "target": "Carnobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriales_Atopobiaceae",
+                    "score": 0,
+                    "source": "Coriobacteriales",
+                    "target": "Atopobiaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriales_Coriobacteriaceae",
+                    "score": 0,
+                    "source": "Coriobacteriales",
+                    "target": "Coriobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthellales_Eggerthellaceae",
+                    "score": 0,
+                    "source": "Eggerthellales",
+                    "target": "Eggerthellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Micrococcales_Micrococcaceae",
+                    "score": 0,
+                    "source": "Micrococcales",
+                    "target": "Micrococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacteriales_Bifidobacteriaceae",
+                    "score": 0,
+                    "source": "Bifidobacteriales",
+                    "target": "Bifidobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcales_Deinococcaceae",
+                    "score": 0,
+                    "source": "Deinococcales",
+                    "target": "Deinococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "saccharomyceta_Saccharomycotina",
+                    "score": 0,
+                    "source": "saccharomyceta",
+                    "target": "Saccharomycotina"
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobacteriaceae_Methanobrevibacter",
+                    "score": 0,
+                    "source": "Methanobacteriaceae",
+                    "target": "Methanobrevibacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrionaceae_Bilophila",
+                    "score": 0,
+                    "source": "Desulfovibrionaceae",
+                    "target": "Bilophila"
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrionaceae_Desulfovibrio",
+                    "score": 0,
+                    "source": "Desulfovibrionaceae",
+                    "target": "Desulfovibrio"
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderia_unclassified_Burkholderia_species",
+                    "score": 0,
+                    "source": "Burkholderia",
+                    "target": "unclassified_Burkholderia_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Parasutterella_Parasutterella_excrementihominis",
+                    "score": 0,
+                    "source": "Parasutterella",
+                    "target": "Parasutterella_excrementihominis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterella_Sutterella_wadsworthensis",
+                    "score": 0,
+                    "source": "Sutterella",
+                    "target": "Sutterella_wadsworthensis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Comamonas_unclassified_Comamonas_species",
+                    "score": 0,
+                    "source": "Comamonas",
+                    "target": "unclassified_Comamonas_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Candidatus_Zinderia_Candidatus_Zinderia_insecticola",
+                    "score": 0,
+                    "source": "Candidatus_Zinderia",
+                    "target": "Candidatus_Zinderia_insecticola"
+                }
+            },
+            {
+                "data": {
+                    "id": "Oxalobacter_Oxalobacter_formigenes",
+                    "score": 0,
+                    "source": "Oxalobacter",
+                    "target": "Oxalobacter_formigenes"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Burkholderiales__miscellaneous_Burkholderiales_bacterium_1_1_47",
+                    "score": 0,
+                    "source": "unclassified_Burkholderiales__miscellaneous",
+                    "target": "Burkholderiales_bacterium_1_1_47"
+                }
+            },
+            {
+                "data": {
+                    "id": "Haemophilus_Haemophilus_parainfluenzae",
+                    "score": 0,
+                    "source": "Haemophilus",
+                    "target": "Haemophilus_parainfluenzae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacillus_unclassified_Actinobacillus_species",
+                    "score": 0,
+                    "source": "Actinobacillus",
+                    "target": "unclassified_Actinobacillus_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudomonas_unclassified_Pseudomonas",
+                    "score": 0,
+                    "source": "Pseudomonas",
+                    "target": "unclassified_Pseudomonas"
+                }
+            },
+            {
+                "data": {
+                    "id": "Escherichia_Escherichia_coli",
+                    "score": 0,
+                    "source": "Escherichia",
+                    "target": "Escherichia_coli"
+                }
+            },
+            {
+                "data": {
+                    "id": "Escherichia_unclassified_Escherichia_species",
+                    "score": 0,
+                    "source": "Escherichia",
+                    "target": "unclassified_Escherichia_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pantoea_unclassified_Pantoea_species",
+                    "score": 0,
+                    "source": "Pantoea",
+                    "target": "unclassified_Pantoea_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Tannerellaceae",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Tannerellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Bacteroidaceae",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Bacteroidaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Prevotellaceae",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Prevotellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Rikenellaceae",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Rikenellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Odoribacteraceae",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Odoribacteraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Barnesiellaceae",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Barnesiellaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_Bacteroidales_noname_family",
+                    "score": 0,
+                    "source": "Bacteroidales",
+                    "target": "Bacteroidales_noname_family"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sphingobacteriales_Sphingobacteriaceae",
+                    "score": 0,
+                    "source": "Sphingobacteriales",
+                    "target": "Sphingobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavobacteriales_Flavobacteriaceae",
+                    "score": 0,
+                    "source": "Flavobacteriales",
+                    "target": "Flavobacteriaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Akkermansiaceae_Akkermansia",
+                    "score": 0,
+                    "source": "Akkermansiaceae",
+                    "target": "Akkermansia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Granulicella_unclassified_Granulicella_species",
+                    "score": 0,
+                    "source": "Granulicella",
+                    "target": "unclassified_Granulicella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Butyrivibrio",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Butyrivibrio"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_unclassified_Lachnospiraceae",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "unclassified_Lachnospiraceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Roseburia",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Roseburia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Lachnoclostridium",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Lachnoclostridium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Dorea",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Dorea"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Coprococcus",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Coprococcus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Anaerostipes",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Anaerostipes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_Blautia",
+                    "score": 0,
+                    "source": "Lachnospiraceae",
+                    "target": "Blautia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_Subdoligranulum",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "Subdoligranulum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_Pseudoflavonifractor",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "Pseudoflavonifractor"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_Flavonifractor",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "Flavonifractor"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_Faecalibacterium",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "Faecalibacterium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_Ruminococcus",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "Ruminococcus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_unclassified_Ruminococcaceae",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "unclassified_Ruminococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_Anaerotruncus",
+                    "score": 0,
+                    "source": "Ruminococcaceae",
+                    "target": "Anaerotruncus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiaceae_Clostridium",
+                    "score": 0,
+                    "source": "Clostridiaceae",
+                    "target": "Clostridium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiaceae_Butyricicoccus",
+                    "score": 0,
+                    "source": "Clostridiaceae",
+                    "target": "Butyricicoccus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiaceae_unclassified_Clostridiaceae",
+                    "score": 0,
+                    "source": "Clostridiaceae",
+                    "target": "unclassified_Clostridiaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacteriaceae_Eubacterium",
+                    "score": 0,
+                    "source": "Eubacteriaceae",
+                    "target": "Eubacterium"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiales_Bacteroides_pectinophilus",
+                    "score": 0,
+                    "source": "unclassified_Clostridiales",
+                    "target": "Bacteroides_pectinophilus"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiales_unclassified_Clostridiales__miscellaneous",
+                    "score": 0,
+                    "source": "unclassified_Clostridiales",
+                    "target": "unclassified_Clostridiales__miscellaneous"
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae_Peptostreptococcaceae_noname_genus",
+                    "score": 0,
+                    "source": "Peptostreptococcaceae",
+                    "target": "Peptostreptococcaceae_noname_genus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae_Peptostreptococcaceae_noname_genus_ccnu",
+                    "score": 0,
+                    "source": "Peptostreptococcaceae",
+                    "target": "Peptostreptococcaceae_noname_genus_ccnu"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_incertae_sedis_Clostridiales_Family_XIII_Incertae_Sedis",
+                    "score": 0,
+                    "source": "Clostridiales_incertae_sedis",
+                    "target": "Clostridiales_Family_XIII_Incertae_Sedis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Oscillospiraceae_Oscillibacter",
+                    "score": 0,
+                    "source": "Oscillospiraceae",
+                    "target": "Oscillibacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Erysipelatoclostridium",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Erysipelatoclostridium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Catenibacterium",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Catenibacterium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Coprobacillus",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Coprobacillus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Solobacterium",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Solobacterium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Turicibacter",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Turicibacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_unclassified_Erysipelotrichaceae",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "unclassified_Erysipelotrichaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Holdemania",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Holdemania"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Erysipelotrichaceae_noname_genus",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Erysipelotrichaceae_noname_genus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Erysipelotrichaceae_noname_genus_ccnu",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Erysipelotrichaceae_noname_genus_ccnu"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_Erysipelotrichaceae_noname_genus_ccnu2",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae",
+                    "target": "Erysipelotrichaceae_noname_genus_ccnu2"
+                }
+            },
+            {
+                "data": {
+                    "id": "Selenomonadaceae_Mitsuokella",
+                    "score": 0,
+                    "source": "Selenomonadaceae",
+                    "target": "Mitsuokella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidaminococcaceae_Phascolarctobacterium",
+                    "score": 0,
+                    "source": "Acidaminococcaceae",
+                    "target": "Phascolarctobacterium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidaminococcaceae_unclassified_Acidaminococcaceae",
+                    "score": 0,
+                    "source": "Acidaminococcaceae",
+                    "target": "unclassified_Acidaminococcaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonellaceae_Megasphaera",
+                    "score": 0,
+                    "source": "Veillonellaceae",
+                    "target": "Megasphaera"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonellaceae_Veillonella",
+                    "score": 0,
+                    "source": "Veillonellaceae",
+                    "target": "Veillonella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonellaceae_Dialister",
+                    "score": 0,
+                    "source": "Veillonellaceae",
+                    "target": "Dialister"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcaceae_Streptococcus",
+                    "score": 0,
+                    "source": "Streptococcaceae",
+                    "target": "Streptococcus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcaceae_Lactococcus",
+                    "score": 0,
+                    "source": "Streptococcaceae",
+                    "target": "Lactococcus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillaceae_Lactobacillus",
+                    "score": 0,
+                    "source": "Lactobacillaceae",
+                    "target": "Lactobacillus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Carnobacteriaceae_Granulicatella",
+                    "score": 0,
+                    "source": "Carnobacteriaceae",
+                    "target": "Granulicatella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Atopobiaceae_Olsenella",
+                    "score": 0,
+                    "source": "Atopobiaceae",
+                    "target": "Olsenella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Atopobiaceae_Atopobium",
+                    "score": 0,
+                    "source": "Atopobiaceae",
+                    "target": "Atopobium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriaceae_Collinsella",
+                    "score": 0,
+                    "source": "Coriobacteriaceae",
+                    "target": "Collinsella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthellaceae_Eggerthella",
+                    "score": 0,
+                    "source": "Eggerthellaceae",
+                    "target": "Eggerthella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthellaceae_Adlercreutzia",
+                    "score": 0,
+                    "source": "Eggerthellaceae",
+                    "target": "Adlercreutzia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthellaceae_Gordonibacter",
+                    "score": 0,
+                    "source": "Eggerthellaceae",
+                    "target": "Gordonibacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Micrococcaceae_Rothia",
+                    "score": 0,
+                    "source": "Micrococcaceae",
+                    "target": "Rothia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacteriaceae_Bifidobacterium",
+                    "score": 0,
+                    "source": "Bifidobacteriaceae",
+                    "target": "Bifidobacterium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcaceae_Deinococcus",
+                    "score": 0,
+                    "source": "Deinococcaceae",
+                    "target": "Deinococcus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycotina_Saccharomycetes",
+                    "score": 0,
+                    "source": "Saccharomycotina",
+                    "target": "Saccharomycetes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobrevibacter_Methanobrevibacter_smithii",
+                    "score": 0,
+                    "source": "Methanobrevibacter",
+                    "target": "Methanobrevibacter_smithii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobrevibacter_unclassified_Methanobrevibacter_species",
+                    "score": 0,
+                    "source": "Methanobrevibacter",
+                    "target": "unclassified_Methanobrevibacter_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bilophila_Bilophila_wadsworthia",
+                    "score": 0,
+                    "source": "Bilophila",
+                    "target": "Bilophila_wadsworthia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bilophila_unclassified_Bilophila_species",
+                    "score": 0,
+                    "source": "Bilophila",
+                    "target": "unclassified_Bilophila_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrio_Desulfovibrio_piger",
+                    "score": 0,
+                    "source": "Desulfovibrio",
+                    "target": "Desulfovibrio_piger"
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrio_Desulfovibrio_desulfuricans",
+                    "score": 0,
+                    "source": "Desulfovibrio",
+                    "target": "Desulfovibrio_desulfuricans"
+                }
+            },
+            {
+                "data": {
+                    "id": "Tannerellaceae_Parabacteroides",
+                    "score": 0,
+                    "source": "Tannerellaceae",
+                    "target": "Parabacteroides"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidaceae_Bacteroides",
+                    "score": 0,
+                    "source": "Bacteroidaceae",
+                    "target": "Bacteroides"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotellaceae_Paraprevotella",
+                    "score": 0,
+                    "source": "Prevotellaceae",
+                    "target": "Paraprevotella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotellaceae_Alloprevotella",
+                    "score": 0,
+                    "source": "Prevotellaceae",
+                    "target": "Alloprevotella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotellaceae_Prevotella",
+                    "score": 0,
+                    "source": "Prevotellaceae",
+                    "target": "Prevotella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Rikenellaceae_Alistipes",
+                    "score": 0,
+                    "source": "Rikenellaceae",
+                    "target": "Alistipes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Odoribacteraceae_Odoribacter",
+                    "score": 0,
+                    "source": "Odoribacteraceae",
+                    "target": "Odoribacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Odoribacteraceae_Butyricimonas",
+                    "score": 0,
+                    "source": "Odoribacteraceae",
+                    "target": "Butyricimonas"
+                }
+            },
+            {
+                "data": {
+                    "id": "Barnesiellaceae_Barnesiella",
+                    "score": 0,
+                    "source": "Barnesiellaceae",
+                    "target": "Barnesiella"
+                }
+            },
+            {
+                "data": {
+                    "id": "Barnesiellaceae_Coprobacter",
+                    "score": 0,
+                    "source": "Barnesiellaceae",
+                    "target": "Coprobacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Sphingobacteriaceae_Pedobacter",
+                    "score": 0,
+                    "source": "Sphingobacteriaceae",
+                    "target": "Pedobacter"
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavobacteriaceae_Cellulophaga",
+                    "score": 0,
+                    "source": "Flavobacteriaceae",
+                    "target": "Cellulophaga"
+                }
+            },
+            {
+                "data": {
+                    "id": "Akkermansia_Akkermansia_muciniphila",
+                    "score": 0,
+                    "source": "Akkermansia",
+                    "target": "Akkermansia_muciniphila"
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyrivibrio_Butyrivibrio_crossotus",
+                    "score": 0,
+                    "source": "Butyrivibrio",
+                    "target": "Butyrivibrio_crossotus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyrivibrio_unclassified_Butyrivibrio_species",
+                    "score": 0,
+                    "source": "Butyrivibrio",
+                    "target": "unclassified_Butyrivibrio_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Eubacterium_rectale",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Eubacterium_rectale"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_8_1_57FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_8_1_57FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_5_1_63FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_5_1_63FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_9_1_43BFAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_9_1_43BFAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_3_1_57FAA_CT1",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_3_1_57FAA_CT1"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_3_1_46FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_3_1_46FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_7_1_58FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_7_1_58FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_2_1_58FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_2_1_58FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_1_4_56FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_1_4_56FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae_Lachnospiraceae_bacterium_1_1_57FAA",
+                    "score": 0,
+                    "source": "unclassified_Lachnospiraceae",
+                    "target": "Lachnospiraceae_bacterium_1_1_57FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_Roseburia_inulinivorans",
+                    "score": 0,
+                    "source": "Roseburia",
+                    "target": "Roseburia_inulinivorans"
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_Roseburia_hominis",
+                    "score": 0,
+                    "source": "Roseburia",
+                    "target": "Roseburia_hominis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_Roseburia_intestinalis",
+                    "score": 0,
+                    "source": "Roseburia",
+                    "target": "Roseburia_intestinalis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_unclassified_Roseburia_species",
+                    "score": 0,
+                    "source": "Roseburia",
+                    "target": "unclassified_Roseburia_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium_Clostridium_scindens",
+                    "score": 0,
+                    "source": "Lachnoclostridium",
+                    "target": "Clostridium_scindens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium_Clostridium_citroniae",
+                    "score": 0,
+                    "source": "Lachnoclostridium",
+                    "target": "Clostridium_citroniae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium_Clostridium_asparagiforme",
+                    "score": 0,
+                    "source": "Lachnoclostridium",
+                    "target": "Clostridium_asparagiforme"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium_Clostridium_bolteae",
+                    "score": 0,
+                    "source": "Lachnoclostridium",
+                    "target": "Clostridium_bolteae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium_Clostridium_clostridioforme",
+                    "score": 0,
+                    "source": "Lachnoclostridium",
+                    "target": "Clostridium_clostridioforme"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium_Clostridium_symbiosum",
+                    "score": 0,
+                    "source": "Lachnoclostridium",
+                    "target": "Clostridium_symbiosum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Dorea_Dorea_longicatena",
+                    "score": 0,
+                    "source": "Dorea",
+                    "target": "Dorea_longicatena"
+                }
+            },
+            {
+                "data": {
+                    "id": "Dorea_Dorea_formicigenerans",
+                    "score": 0,
+                    "source": "Dorea",
+                    "target": "Dorea_formicigenerans"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_Coprococcus_catus",
+                    "score": 0,
+                    "source": "Coprococcus",
+                    "target": "Coprococcus_catus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_Coprococcus_eutactus",
+                    "score": 0,
+                    "source": "Coprococcus",
+                    "target": "Coprococcus_eutactus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_Coprococcus_comes",
+                    "score": 0,
+                    "source": "Coprococcus",
+                    "target": "Coprococcus_comes"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_Coprococcus_sp_ART55_1_species",
+                    "score": 0,
+                    "source": "Coprococcus",
+                    "target": "Coprococcus_sp_ART55_1_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerostipes_Anaerostipes_hadrus",
+                    "score": 0,
+                    "source": "Anaerostipes",
+                    "target": "Anaerostipes_hadrus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_Blautia_hydrogenotrophica",
+                    "score": 0,
+                    "source": "Blautia",
+                    "target": "Blautia_hydrogenotrophica"
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_Blautia_producta",
+                    "score": 0,
+                    "source": "Blautia",
+                    "target": "Blautia_producta"
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_Ruminococcus_torques",
+                    "score": 0,
+                    "source": "Blautia",
+                    "target": "Ruminococcus_torques"
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_Ruminococcus_gnavus",
+                    "score": 0,
+                    "source": "Blautia",
+                    "target": "Ruminococcus_gnavus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_Ruminococcus_obeum_species",
+                    "score": 0,
+                    "source": "Blautia",
+                    "target": "Ruminococcus_obeum_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Subdoligranulum_Subdoligranulum_sp_4_3_54A2FAA",
+                    "score": 0,
+                    "source": "Subdoligranulum",
+                    "target": "Subdoligranulum_sp_4_3_54A2FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "Subdoligranulum_Subdoligranulum_variabile",
+                    "score": 0,
+                    "source": "Subdoligranulum",
+                    "target": "Subdoligranulum_variabile"
+                }
+            },
+            {
+                "data": {
+                    "id": "Subdoligranulum_unclassified_Subdoligranulum_species",
+                    "score": 0,
+                    "source": "Subdoligranulum",
+                    "target": "unclassified_Subdoligranulum_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudoflavonifractor_Pseudoflavonifractor_capillosus",
+                    "score": 0,
+                    "source": "Pseudoflavonifractor",
+                    "target": "Pseudoflavonifractor_capillosus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavonifractor_Flavonifractor_plautii",
+                    "score": 0,
+                    "source": "Flavonifractor",
+                    "target": "Flavonifractor_plautii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Faecalibacterium_Faecalibacterium_prausnitzii",
+                    "score": 0,
+                    "source": "Faecalibacterium",
+                    "target": "Faecalibacterium_prausnitzii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_champanellensis",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_champanellensis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_sp_5_1_39BFAA",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_sp_5_1_39BFAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_albus",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_albus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_lactaris",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_lactaris"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_flavefaciens",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_flavefaciens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_callidus",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_callidus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_Ruminococcus_bromii",
+                    "score": 0,
+                    "source": "Ruminococcus",
+                    "target": "Ruminococcus_bromii"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Ruminococcaceae_Clostridium_leptum",
+                    "score": 0,
+                    "source": "unclassified_Ruminococcaceae",
+                    "target": "Clostridium_leptum"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Ruminococcaceae_unclassified_Ruminococcaceae__miscellaneous",
+                    "score": 0,
+                    "source": "unclassified_Ruminococcaceae",
+                    "target": "unclassified_Ruminococcaceae__miscellaneous"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Ruminococcaceae_Eubacterium_siraeum",
+                    "score": 0,
+                    "source": "unclassified_Ruminococcaceae",
+                    "target": "Eubacterium_siraeum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerotruncus_Anaerotruncus_colihominis",
+                    "score": 0,
+                    "source": "Anaerotruncus",
+                    "target": "Anaerotruncus_colihominis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerotruncus_unclassified_Anaerotruncus_species",
+                    "score": 0,
+                    "source": "Anaerotruncus",
+                    "target": "unclassified_Anaerotruncus_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_Clostridium_hathewayi_species",
+                    "score": 0,
+                    "source": "Clostridium",
+                    "target": "Clostridium_hathewayi_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_Clostridium_nexile_species",
+                    "score": 0,
+                    "source": "Clostridium",
+                    "target": "Clostridium_nexile_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_Clostridium_sp_L2_50_species",
+                    "score": 0,
+                    "source": "Clostridium",
+                    "target": "Clostridium_sp_L2_50_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyricicoccus_Butyricicoccus_pullicaecorum",
+                    "score": 0,
+                    "source": "Butyricicoccus",
+                    "target": "Butyricicoccus_pullicaecorum"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiaceae_Clostridiaceae_bacterium_JC118",
+                    "score": 0,
+                    "source": "unclassified_Clostridiaceae",
+                    "target": "Clostridiaceae_bacterium_JC118"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_Eubacterium_sp_3_1_31",
+                    "score": 0,
+                    "source": "Eubacterium",
+                    "target": "Eubacterium_sp_3_1_31"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_Eubacterium_ventriosum",
+                    "score": 0,
+                    "source": "Eubacterium",
+                    "target": "Eubacterium_ventriosum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_Eubacterium_ramulus",
+                    "score": 0,
+                    "source": "Eubacterium",
+                    "target": "Eubacterium_ramulus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_Eubacterium_eligens",
+                    "score": 0,
+                    "source": "Eubacterium",
+                    "target": "Eubacterium_eligens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_Eubacterium_hallii",
+                    "score": 0,
+                    "source": "Eubacterium",
+                    "target": "Eubacterium_hallii"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiales__miscellaneous_Clostridiales_bacterium_1_7_47FAA",
+                    "score": 0,
+                    "source": "unclassified_Clostridiales__miscellaneous",
+                    "target": "Clostridiales_bacterium_1_7_47FAA"
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Family_XIII_Incertae_Sedis_unclassified_Clostridiales_Family_XIII_Incertae_Sedis",
+                    "score": 0,
+                    "source": "Clostridiales_Family_XIII_Incertae_Sedis",
+                    "target": "unclassified_Clostridiales_Family_XIII_Incertae_Sedis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Oscillibacter_Oscillibacter_sp_KLE_1745",
+                    "score": 0,
+                    "source": "Oscillibacter",
+                    "target": "Oscillibacter_sp_KLE_1745"
+                }
+            },
+            {
+                "data": {
+                    "id": "Oscillibacter_unclassified_Oscillibacter_species",
+                    "score": 0,
+                    "source": "Oscillibacter",
+                    "target": "unclassified_Oscillibacter_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelatoclostridium_Clostridium_innocuum",
+                    "score": 0,
+                    "source": "Erysipelatoclostridium",
+                    "target": "Clostridium_innocuum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Catenibacterium_Catenibacterium_mitsuokai",
+                    "score": 0,
+                    "source": "Catenibacterium",
+                    "target": "Catenibacterium_mitsuokai"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprobacillus_unclassified_Coprobacillus_species",
+                    "score": 0,
+                    "source": "Coprobacillus",
+                    "target": "unclassified_Coprobacillus_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Solobacterium_Solobacterium_moorei",
+                    "score": 0,
+                    "source": "Solobacterium",
+                    "target": "Solobacterium_moorei"
+                }
+            },
+            {
+                "data": {
+                    "id": "Turicibacter_Turicibacter_sanguinis",
+                    "score": 0,
+                    "source": "Turicibacter",
+                    "target": "Turicibacter_sanguinis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Turicibacter_unclassified_Turicibacter_species",
+                    "score": 0,
+                    "source": "Turicibacter",
+                    "target": "unclassified_Turicibacter_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Erysipelotrichaceae_unclassified_Erysipelotrichaceae__miscellaneous",
+                    "score": 0,
+                    "source": "unclassified_Erysipelotrichaceae",
+                    "target": "unclassified_Erysipelotrichaceae__miscellaneous"
+                }
+            },
+            {
+                "data": {
+                    "id": "Holdemania_Holdemania_filiformis",
+                    "score": 0,
+                    "source": "Holdemania",
+                    "target": "Holdemania_filiformis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Holdemania_unclassified_Holdemania_species",
+                    "score": 0,
+                    "source": "Holdemania",
+                    "target": "unclassified_Holdemania_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Mitsuokella_Mitsuokella_multacida",
+                    "score": 0,
+                    "source": "Mitsuokella",
+                    "target": "Mitsuokella_multacida"
+                }
+            },
+            {
+                "data": {
+                    "id": "Mitsuokella_unclassified_Mitsuokella_species",
+                    "score": 0,
+                    "source": "Mitsuokella",
+                    "target": "unclassified_Mitsuokella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Phascolarctobacterium_Phascolarctobacterium_succinatutens",
+                    "score": 0,
+                    "source": "Phascolarctobacterium",
+                    "target": "Phascolarctobacterium_succinatutens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Megasphaera_Megasphaera_elsdenii",
+                    "score": 0,
+                    "source": "Megasphaera",
+                    "target": "Megasphaera_elsdenii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Megasphaera_unclassified_Megasphaera_species",
+                    "score": 0,
+                    "source": "Megasphaera",
+                    "target": "unclassified_Megasphaera_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_Veillonella_dispar",
+                    "score": 0,
+                    "source": "Veillonella",
+                    "target": "Veillonella_dispar"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_Veillonella_atypica",
+                    "score": 0,
+                    "source": "Veillonella",
+                    "target": "Veillonella_atypica"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_Veillonella_parvula",
+                    "score": 0,
+                    "source": "Veillonella",
+                    "target": "Veillonella_parvula"
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_unclassified_Veillonella_species",
+                    "score": 0,
+                    "source": "Veillonella",
+                    "target": "unclassified_Veillonella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Dialister_Dialister_succinatiphilus",
+                    "score": 0,
+                    "source": "Dialister",
+                    "target": "Dialister_succinatiphilus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Dialister_Dialister_invisus",
+                    "score": 0,
+                    "source": "Dialister",
+                    "target": "Dialister_invisus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_gordonii",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_gordonii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_australis",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_australis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_parasanguinis",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_parasanguinis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_vestibularis",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_vestibularis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_salivarius",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_salivarius"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_thermophilus",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_thermophilus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_sanguinis",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_sanguinis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_infantis",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_infantis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_Streptococcus_mitis_oralis_pneumoniae_species",
+                    "score": 0,
+                    "source": "Streptococcus",
+                    "target": "Streptococcus_mitis_oralis_pneumoniae_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactococcus_Lactococcus_lactis",
+                    "score": 0,
+                    "source": "Lactococcus",
+                    "target": "Lactococcus_lactis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillus_Lactobacillus_ruminis",
+                    "score": 0,
+                    "source": "Lactobacillus",
+                    "target": "Lactobacillus_ruminis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Granulicatella_unclassified_Granulicatella_species",
+                    "score": 0,
+                    "source": "Granulicatella",
+                    "target": "unclassified_Granulicatella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Olsenella_unclassified_Olsenella_species",
+                    "score": 0,
+                    "source": "Olsenella",
+                    "target": "unclassified_Olsenella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Atopobium_Atopobium_parvulum",
+                    "score": 0,
+                    "source": "Atopobium",
+                    "target": "Atopobium_parvulum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Collinsella_Collinsella_aerofaciens",
+                    "score": 0,
+                    "source": "Collinsella",
+                    "target": "Collinsella_aerofaciens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthella_Eggerthella_lenta",
+                    "score": 0,
+                    "source": "Eggerthella",
+                    "target": "Eggerthella_lenta"
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthella_unclassified_Eggerthella_species",
+                    "score": 0,
+                    "source": "Eggerthella",
+                    "target": "unclassified_Eggerthella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Adlercreutzia_Adlercreutzia_equolifaciens",
+                    "score": 0,
+                    "source": "Adlercreutzia",
+                    "target": "Adlercreutzia_equolifaciens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Gordonibacter_Gordonibacter_pamelaeae",
+                    "score": 0,
+                    "source": "Gordonibacter",
+                    "target": "Gordonibacter_pamelaeae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Rothia_Rothia_mucilaginosa",
+                    "score": 0,
+                    "source": "Rothia",
+                    "target": "Rothia_mucilaginosa"
+                }
+            },
+            {
+                "data": {
+                    "id": "Rothia_unclassified_Rothia_species",
+                    "score": 0,
+                    "source": "Rothia",
+                    "target": "unclassified_Rothia_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_Bifidobacterium_pseudocatenulatum",
+                    "score": 0,
+                    "source": "Bifidobacterium",
+                    "target": "Bifidobacterium_pseudocatenulatum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_Bifidobacterium_adolescentis",
+                    "score": 0,
+                    "source": "Bifidobacterium",
+                    "target": "Bifidobacterium_adolescentis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_Bifidobacterium_catenulatum",
+                    "score": 0,
+                    "source": "Bifidobacterium",
+                    "target": "Bifidobacterium_catenulatum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_Bifidobacterium_dentium",
+                    "score": 0,
+                    "source": "Bifidobacterium",
+                    "target": "Bifidobacterium_dentium"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_Bifidobacterium_longum",
+                    "score": 0,
+                    "source": "Bifidobacterium",
+                    "target": "Bifidobacterium_longum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_Bifidobacterium_bifidum",
+                    "score": 0,
+                    "source": "Bifidobacterium",
+                    "target": "Bifidobacterium_bifidum"
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcus_unclassified_Deinococcus_species",
+                    "score": 0,
+                    "source": "Deinococcus",
+                    "target": "unclassified_Deinococcus_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_noname_family_Bacteroidales_noname_genus",
+                    "score": 0,
+                    "source": "Bacteroidales_noname_family",
+                    "target": "Bacteroidales_noname_genus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae_noname_genus_Clostridium_bartlettii_species",
+                    "score": 0,
+                    "source": "Peptostreptococcaceae_noname_genus",
+                    "target": "Clostridium_bartlettii_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae_noname_genus_ccnu_unclassified_Peptostreptococcaceae_noname_species",
+                    "score": 0,
+                    "source": "Peptostreptococcaceae_noname_genus_ccnu",
+                    "target": "unclassified_Peptostreptococcaceae_noname_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_noname_genus_Eubacterium_biforme_species",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae_noname_genus",
+                    "target": "Eubacterium_biforme_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_noname_genus_ccnu_Eubacterium_cylindroides_species",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae_noname_genus_ccnu",
+                    "target": "Eubacterium_cylindroides_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_noname_genus_ccnu2_Clostridium_ramosum_species",
+                    "score": 0,
+                    "source": "Erysipelotrichaceae_noname_genus_ccnu2",
+                    "target": "Clostridium_ramosum_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycetes_Saccharomycetales",
+                    "score": 0,
+                    "source": "Saccharomycetes",
+                    "target": "Saccharomycetales"
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_Parabacteroides_merdae",
+                    "score": 0,
+                    "source": "Parabacteroides",
+                    "target": "Parabacteroides_merdae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_Parabacteroides_johnsonii",
+                    "score": 0,
+                    "source": "Parabacteroides",
+                    "target": "Parabacteroides_johnsonii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_Parabacteroides_goldsteinii",
+                    "score": 0,
+                    "source": "Parabacteroides",
+                    "target": "Parabacteroides_goldsteinii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_Parabacteroides_distasonis",
+                    "score": 0,
+                    "source": "Parabacteroides",
+                    "target": "Parabacteroides_distasonis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_unclassified_Parabacteroides_species",
+                    "score": 0,
+                    "source": "Parabacteroides",
+                    "target": "unclassified_Parabacteroides_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_nordii",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_nordii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_stercoris",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_stercoris"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_salyersiae",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_salyersiae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_ovatus",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_ovatus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_coprocola",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_coprocola"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_faecis",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_faecis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_intestinalis",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_intestinalis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_coprophilus",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_coprophilus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_uniformis",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_uniformis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_xylanisolvens",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_xylanisolvens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_fragilis",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_fragilis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_dorei",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_dorei"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_thetaiotaomicron",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_thetaiotaomicron"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_vulgatus",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_vulgatus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_clarus",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_clarus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_eggerthii",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_eggerthii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_cellulosilyticus",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_cellulosilyticus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_massiliensis",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_massiliensis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_caccae",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_caccae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_finegoldii",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_finegoldii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_Bacteroides_plebeius",
+                    "score": 0,
+                    "source": "Bacteroides",
+                    "target": "Bacteroides_plebeius"
+                }
+            },
+            {
+                "data": {
+                    "id": "Paraprevotella_Paraprevotella_clara",
+                    "score": 0,
+                    "source": "Paraprevotella",
+                    "target": "Paraprevotella_clara"
+                }
+            },
+            {
+                "data": {
+                    "id": "Paraprevotella_Paraprevotella_xylaniphila",
+                    "score": 0,
+                    "source": "Paraprevotella",
+                    "target": "Paraprevotella_xylaniphila"
+                }
+            },
+            {
+                "data": {
+                    "id": "Paraprevotella_unclassified_Paraprevotella_species",
+                    "score": 0,
+                    "source": "Paraprevotella",
+                    "target": "unclassified_Paraprevotella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alloprevotella_unclassified_Alloprevotella_species",
+                    "score": 0,
+                    "source": "Alloprevotella",
+                    "target": "unclassified_Alloprevotella_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_Prevotella_stercorea",
+                    "score": 0,
+                    "source": "Prevotella",
+                    "target": "Prevotella_stercorea"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_Prevotella_bivia",
+                    "score": 0,
+                    "source": "Prevotella",
+                    "target": "Prevotella_bivia"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_Prevotella_copri",
+                    "score": 0,
+                    "source": "Prevotella",
+                    "target": "Prevotella_copri"
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_Prevotella_disiens",
+                    "score": 0,
+                    "source": "Prevotella",
+                    "target": "Prevotella_disiens"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_senegalensis",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_senegalensis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_finegoldii",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_finegoldii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_onderdonkii",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_onderdonkii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_putredinis",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_putredinis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_sp_HGB5",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_sp_HGB5"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_indistinctus",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_indistinctus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_shahii",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_shahii"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_Alistipes_sp_AP11_species",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "Alistipes_sp_AP11_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_unclassified_Alistipes_species",
+                    "score": 0,
+                    "source": "Alistipes",
+                    "target": "unclassified_Alistipes_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Odoribacter_Odoribacter_splanchnicus",
+                    "score": 0,
+                    "source": "Odoribacter",
+                    "target": "Odoribacter_splanchnicus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyricimonas_Butyricimonas_synergistica",
+                    "score": 0,
+                    "source": "Butyricimonas",
+                    "target": "Butyricimonas_synergistica"
+                }
+            },
+            {
+                "data": {
+                    "id": "Barnesiella_Barnesiella_intestinihominis",
+                    "score": 0,
+                    "source": "Barnesiella",
+                    "target": "Barnesiella_intestinihominis"
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprobacter_Coprobacter_fastidiosus",
+                    "score": 0,
+                    "source": "Coprobacter",
+                    "target": "Coprobacter_fastidiosus"
+                }
+            },
+            {
+                "data": {
+                    "id": "Pedobacter_unclassified_Pedobacter_species",
+                    "score": 0,
+                    "source": "Pedobacter",
+                    "target": "unclassified_Pedobacter_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Cellulophaga_unclassified_Cellulophaga_species",
+                    "score": 0,
+                    "source": "Cellulophaga",
+                    "target": "unclassified_Cellulophaga_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Ruminococcaceae__miscellaneous_Ruminococcaceae_bacterium_D16",
+                    "score": 0,
+                    "source": "unclassified_Ruminococcaceae__miscellaneous",
+                    "target": "Ruminococcaceae_bacterium_D16"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Erysipelotrichaceae__miscellaneous_Erysipelotrichaceae_bacterium_2_2_44A",
+                    "score": 0,
+                    "source": "unclassified_Erysipelotrichaceae__miscellaneous",
+                    "target": "Erysipelotrichaceae_bacterium_2_2_44A"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Erysipelotrichaceae__miscellaneous_Erysipelotrichaceae_bacterium_6_1_45",
+                    "score": 0,
+                    "source": "unclassified_Erysipelotrichaceae__miscellaneous",
+                    "target": "Erysipelotrichaceae_bacterium_6_1_45"
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Erysipelotrichaceae__miscellaneous_Erysipelotrichaceae_bacterium_21_3",
+                    "score": 0,
+                    "source": "unclassified_Erysipelotrichaceae__miscellaneous",
+                    "target": "Erysipelotrichaceae_bacterium_21_3"
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_noname_genus_Bacteroidales_bacterium_ph8_species",
+                    "score": 0,
+                    "source": "Bacteroidales_noname_genus",
+                    "target": "Bacteroidales_bacterium_ph8_species"
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycetales_Saccharomycetaceae",
+                    "score": 0,
+                    "source": "Saccharomycetales",
+                    "target": "Saccharomycetaceae"
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycetaceae_Saccharomyces",
+                    "score": 0,
+                    "source": "Saccharomycetaceae",
+                    "target": "Saccharomyces"
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomyces_Saccharomyces_cerevisiae",
+                    "score": 0,
+                    "source": "Saccharomyces",
+                    "target": "Saccharomyces_cerevisiae"
+                }
+            }
+        ],
+        "nodes": [
+            {
+                "data": {
+                    "id": "cellular_organisms",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eukaryota",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Archaea",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Opisthokonta",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Euryarchaeota",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Proteobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "FCB_group",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "PVC_group",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Terrabacteria_group",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Fungi",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanomada_group",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "delta/epsilon_subdivisions",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Betaproteobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Gammaproteobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidetes/Chlorobi_group",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Verrucomicrobia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteriia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Firmicutes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacteria_ccnu",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcus-Thermus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dikarya",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Deltaproteobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pasteurellales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudomonadales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Nevskiales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Enterobacterales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidetes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Verrucomicrobiae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteriales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Negativicutes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacilli",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacteria",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococci",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ascomycota",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobacteriales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrionales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Comamonadaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Oxalobacteraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Burkholderiales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pasteurellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudomonadaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sinobacteraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Enterobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erwiniaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sphingobacteriia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavobacteriia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Verrucomicrobiales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Selenomonadales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidaminococcales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonellales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthellales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Micrococcales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacteriales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "saccharomyceta",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrionaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Sutterellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parasutterella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Comamonas",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Candidatus_Zinderia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Oxalobacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Burkholderiales__miscellaneous",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Haemophilus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Actinobacillus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudomonas",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Sinobacteraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Escherichia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pantoea",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sphingobacteriales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavobacteriales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Akkermansiaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Granulicella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_incertae_sedis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Oscillospiraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Selenomonadaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Acidaminococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Carnobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Atopobiaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coriobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Micrococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycotina",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobrevibacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bilophila",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrio",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parasutterella_excrementihominis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sutterella_wadsworthensis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Candidatus_Zinderia_insecticola",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Oxalobacter_formigenes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Burkholderiales_bacterium_1_1_47",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Haemophilus_parainfluenzae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Pseudomonas",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Escherichia_coli",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Tannerellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Rikenellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Odoribacteraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Barnesiellaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Sphingobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavobacteriaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Akkermansia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyrivibrio",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Lachnospiraceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnoclostridium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dorea",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerostipes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Subdoligranulum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudoflavonifractor",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavonifractor",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Faecalibacterium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Ruminococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerotruncus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyricicoccus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_pectinophilus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiales__miscellaneous",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_Family_XIII_Incertae_Sedis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Oscillibacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelatoclostridium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Catenibacterium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprobacillus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Solobacterium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Turicibacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Erysipelotrichaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Holdemania",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Mitsuokella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Phascolarctobacterium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Acidaminococcaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Megasphaera",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dialister",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactococcus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Granulicatella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Olsenella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Atopobium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Collinsella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Adlercreutzia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Gordonibacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Rothia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Deinococcus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_noname_family",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae_noname_genus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Peptostreptococcaceae_noname_genus_ccnu",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_noname_genus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_noname_genus_ccnu",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Escherichia_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Granulicella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_noname_genus_ccnu2",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Burkholderia_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Comamonas_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Pantoea_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Actinobacillus_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycetes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Methanobrevibacter_smithii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bilophila_wadsworthia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrio_piger",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Desulfovibrio_desulfuricans",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Paraprevotella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alloprevotella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Odoribacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyricimonas",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Barnesiella",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprobacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pedobacter",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Cellulophaga",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Akkermansia_muciniphila",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyrivibrio_crossotus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_rectale",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_8_1_57FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_5_1_63FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_9_1_43BFAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_3_1_57FAA_CT1",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_3_1_46FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_7_1_58FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_2_1_58FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_1_4_56FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lachnospiraceae_bacterium_1_1_57FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_inulinivorans",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_hominis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Roseburia_intestinalis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_scindens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_citroniae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_asparagiforme",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_bolteae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_clostridioforme",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_symbiosum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dorea_longicatena",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dorea_formicigenerans",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_catus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_eutactus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_comes",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerostipes_hadrus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_hydrogenotrophica",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Blautia_producta",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_torques",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_gnavus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Subdoligranulum_sp_4_3_54A2FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Subdoligranulum_variabile",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Pseudoflavonifractor_capillosus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Flavonifractor_plautii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Faecalibacterium_prausnitzii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_champanellensis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_sp_5_1_39BFAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_albus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_lactaris",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_flavefaciens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_callidus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_bromii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_leptum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Ruminococcaceae__miscellaneous",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_siraeum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Anaerotruncus_colihominis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyricicoccus_pullicaecorum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiaceae_bacterium_JC118",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_sp_3_1_31",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_ventriosum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_ramulus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_eligens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_hallii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridiales_bacterium_1_7_47FAA",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Clostridiales_Family_XIII_Incertae_Sedis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Oscillibacter_sp_KLE_1745",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_innocuum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Catenibacterium_mitsuokai",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Solobacterium_moorei",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Turicibacter_sanguinis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Erysipelotrichaceae__miscellaneous",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Holdemania_filiformis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Mitsuokella_multacida",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Phascolarctobacterium_succinatutens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Megasphaera_elsdenii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_dispar",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_atypica",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Veillonella_parvula",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dialister_succinatiphilus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Dialister_invisus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_gordonii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_australis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_parasanguinis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_vestibularis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_salivarius",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_thermophilus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_sanguinis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_infantis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactococcus_lactis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Lactobacillus_ruminis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Atopobium_parvulum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Collinsella_aerofaciens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eggerthella_lenta",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Adlercreutzia_equolifaciens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Gordonibacter_pamelaeae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Rothia_mucilaginosa",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_pseudocatenulatum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_adolescentis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_catenulatum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_dentium",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_longum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bifidobacterium_bifidum",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Methanobrevibacter_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Rothia_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Eggerthella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Olsenella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_noname_genus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Granulicatella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Streptococcus_mitis_oralis_pneumoniae_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_hathewayi_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_nexile_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_sp_L2_50_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcus_obeum_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Butyrivibrio_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprococcus_sp_ART55_1_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Roseburia_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Oscillibacter_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_bartlettii_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Peptostreptococcaceae_noname_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Anaerotruncus_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Subdoligranulum_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_biforme_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Eubacterium_cylindroides_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Turicibacter_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Megasphaera_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Mitsuokella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Veillonella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Bilophila_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Deinococcus_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Coprobacillus_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Clostridium_ramosum_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Holdemania_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycetales",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_merdae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_johnsonii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_goldsteinii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Parabacteroides_distasonis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_nordii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_stercoris",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_salyersiae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_ovatus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_coprocola",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_faecis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_intestinalis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_coprophilus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_uniformis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_xylanisolvens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_fragilis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_dorei",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_thetaiotaomicron",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_vulgatus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_clarus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_eggerthii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_cellulosilyticus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_massiliensis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_caccae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_finegoldii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroides_plebeius",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Paraprevotella_clara",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Paraprevotella_xylaniphila",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_stercorea",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_bivia",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_copri",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Prevotella_disiens",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_senegalensis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_finegoldii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_onderdonkii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_putredinis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_sp_HGB5",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_indistinctus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_shahii",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Odoribacter_splanchnicus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Butyricimonas_synergistica",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Barnesiella_intestinihominis",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Coprobacter_fastidiosus",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Ruminococcaceae_bacterium_D16",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_bacterium_2_2_44A",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_bacterium_6_1_45",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Erysipelotrichaceae_bacterium_21_3",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Bacteroidales_bacterium_ph8_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Parabacteroides_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Alloprevotella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Paraprevotella_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Alistipes_sp_AP11_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Alistipes_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Cellulophaga_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "unclassified_Pedobacter_species",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomycetaceae",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomyces",
+                    "score": NaN
+                }
+            },
+            {
+                "data": {
+                    "id": "Saccharomyces_cerevisiae",
+                    "score": NaN
+                }
+            }
+        ]
+    }
+}
